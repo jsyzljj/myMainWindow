@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/myImages">
+        <file>myImages/application-exit.png</file>
+        <file>myImages/document-new.png</file>
+        <file>myImages/document-open.png</file>
+        <file>myImages/document-save.png</file>
+        <file>myImages/document-save-as.png</file>
+        <file>myImages/edit-copy.png</file>
+        <file>myImages/edit-cut.png</file>
+        <file>myImages/edit-find.png</file>
+        <file>myImages/edit-paste.png</file>
+        <file>myImages/edit-undo.png</file>
+        <file>myImages/help.png</file>
+        <file>myImages/window-close.png</file>
+    </qresource>
+</RCC>
